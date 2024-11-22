@@ -1,0 +1,1 @@
+# suapase_powersync_localfirst
